@@ -17,7 +17,7 @@ La formation a un volume horaire de 30 heures et sera découpée en quatre jalon
 <strike><li>Un devoir surveillé de 2h en fin de formation portant sur l'ensemble des jalons : Coefficient 1.</li></strike>
 </ul>
 
-Pour l'année universitaire 2019 - 2020, l'évaluation portera sur deux notes :
+<strong>ATTENTION :</strong> Pour l'année universitaire 2019 - 2020, l'évaluation portera sur deux notes :
 
 <ul>
   <li>Les deux premiers jalons du projet "fil rouge" qui sera réalisé pendant les heures de TD et de TP.</li>
