@@ -12,9 +12,9 @@ La formation a un volume horaire de 30 heures et sera découpée en quatre jalon
 Tous ces jalons feront l’objet de trois évaluations :
 
 <ul>
-<li>Un projet « fil rouge » qui sera réalisé pendant les heures de TD et de TP (en binôme) : Coefficient 1.</li>
-<li>Un devoir intermédiaire de 30 minutes portant sur les deux premiers jalons : Coefficient 1/2.</li>
-<li>Un devoir surveillé de 2h en fin de formation portant sur l'ensemble des jalons : Coefficient 1.</li>
+<strike><li>Un projet « fil rouge » qui sera réalisé pendant les heures de TD et de TP (en binôme) : Coefficient 1.</li></strike>
+<strike><li>Un devoir intermédiaire de 30 minutes portant sur les deux premiers jalons : Coefficient 1/2.</li></strike>
+<strike><li>Un devoir surveillé de 2h en fin de formation portant sur l'ensemble des jalons : Coefficient 1.</li></strike>
 </ul>
 
 Les volumes horaires par jalon sont les suivants :
