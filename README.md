@@ -9,7 +9,7 @@ La formation a un volume horaire de 30 heures et sera découpée en quatre jalon
 <li>4ème jalon : Technologie ASP.NET orientée MVC.</li>
 </ul>
 
-<strike>Tous ces jalons feront l’objet de trois évaluations :</strike>
+Tous ces jalons feront l’objet de trois évaluations :
 
 <ul>
 <li>Un projet « fil rouge » qui sera réalisé pendant les heures de TD et de TP (en binôme) : Coefficient 1.</li>
