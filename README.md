@@ -12,17 +12,12 @@ La formation a un volume horaire de 30 heures et sera découpée en quatre jalon
 <strike>Tous ces jalons feront l’objet de trois évaluations :</strike>
 
 <ul>
-<strike><li>Un projet « fil rouge » qui sera réalisé pendant les heures de TD et de TP (en binôme) : Coefficient 1.</li></strike>
-<strike><li>Un devoir intermédiaire de 30 minutes portant sur les deux premiers jalons : Coefficient 1/2.</li></strike>
-<strike><li>Un devoir surveillé de 2h en fin de formation portant sur l'ensemble des jalons : Coefficient 1.</li></strike>
+<li>Un projet « fil rouge » qui sera réalisé pendant les heures de TD et de TP (en binôme) : Coefficient 1.</li>
+<li>Un devoir intermédiaire de 30 minutes portant sur les deux premiers jalons : Coefficient 1/2.</li>
+<li>Un devoir surveillé de 2h en fin de formation portant sur l'ensemble des jalons : Coefficient 1.</li>
 </ul>
 
-<strong>ATTENTION :</strong> Pour l'année universitaire 2019 - 2020, l'évaluation portera sur deux notes :
-
-<ul>
-  <li>Les deux premiers jalons du projet "fil rouge" qui sera réalisé pendant les heures de TD et de TP.</li>
-  <li>Les deux derniers jalons du projet "fil rouge".</li>
-</ul>
+<strong>ATTENTION :</strong> Pour l'année universitaire 20202 - 2021, l'évaluation sera peut être amenée à évoluer en fonction des conditions sanitaires en vigueur.
 
 Le coefficient sera le même. Le projet, compte tenu des impératifs actuels, a été réduit de manière à être réalisé en solo. La note sera ainsi indivudel.
 Une réévaluation de la première note pourra être faite sur lors du deuxième rendu, des éléments ont été corrigés ou ajoutés.
