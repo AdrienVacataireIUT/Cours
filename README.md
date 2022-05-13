@@ -5,7 +5,7 @@ La formation a un volume horaire de 30 heures et sera découpée en quatre jalon
 <ul>
 <li>1er jalon : Initiation au C# / LINQ / Couche d’accès aux données / ORM.</li>
 <li>2ème jalon : Technologie WPF / XAML organisée autour de MVVM.</li>
-<li>3ème jalon : Technologie WCF.</li>
+<li>3ème jalon : Technologie WCF / Web API.</li>
 <li>4ème jalon : Technologie ASP.NET orientée MVC.</li>
 </ul>
 
