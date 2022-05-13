@@ -17,8 +17,6 @@ Tous ces jalons feront l’objet de trois évaluations :
 <li>Un devoir surveillé de 2h en fin de formation portant sur l'ensemble des jalons : Coefficient 1.</li>
 </ul>
 
-<strong>ATTENTION :</strong> Pour l'année universitaire 20202 - 2021, l'évaluation sera peut être amenée à évoluer en fonction des conditions sanitaires en vigueur.
-
 Le coefficient sera le même. Le projet, compte tenu des impératifs actuels, a été réduit de manière à être réalisé en solo. La note sera ainsi indivudel.
 Une réévaluation de la première note pourra être faite sur lors du deuxième rendu, des éléments ont été corrigés ou ajoutés.
 
